@@ -1,5 +1,7 @@
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm José Laura <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">A passionate Spring Boot developer from Bolivia.</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
@@ -51,6 +53,6 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
+[JoseLaura472](https://github.com/JoseLaura472)
 
 Last Edited on: 05/08/2021
