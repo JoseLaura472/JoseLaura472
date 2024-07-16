@@ -12,6 +12,34 @@
 - 📫 How to reach me: **brantlauro@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=TÉCNOLOGIAS+CONOCIDAS.+👨🏻‍💻"/>
+</h2>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+  </a>
+
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+  </a>
+
+  <h2>:hammer: Devops</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+  </a>
+</p>
+<br>
+<!-------------------------->
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
